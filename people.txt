@@ -1,0 +1,10 @@
+Alice Johnson S 1234567890 1 0
+Emma Davis S 2345678901 1 0
+Olivia Robinson S 3456789012 1 0
+Sophia Wilson S 4567890123 9 240
+Ava Martinez S 5678901234 1 0
+Bob Smith P 9876543210
+James White P 8765432109
+Michael Miller P 7654321098
+Ethan Davis P 6543210987
+END OF INPUT

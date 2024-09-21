@@ -1,0 +1,35 @@
+extra courses:
+EC101Microeconomics 1 4 true Johnson
+LS50EnvironmentalScience 2 3 false Garcia
+MA153CalculusIII 1 4 true Brown
+PS205InternationalRelations 2 3 false Taylor
+PY110IntroductionToPsychology 1 4 true Martinez
+SW220SocialWorkPractice 2 3 false Anderson
+CL120ClassicalMythology 1 3 true Smith
+GOV230PoliticalPhilosophy 2 4 false Davis
+AM210AmericanHistory 1 4 true White
+CH250OrganicChemistry 2 4 false Miller
+
+
+extra students:
+Benjamin Brown S 2345678901 2 45
+Chloe Martin S 3456789012 1 48
+Daniel Robinson S 4567890123 2 52
+Emily Taylor S 5678901234 1 47
+Finn Davis S 6789012345 2 49
+Henry Robinson S 8901234567 2 46
+Isabella Wilson S 9012345678 1 53
+Jack Miller S 0123456789 2 50
+
+extra professors:
+Noah Martinez P 5432109876
+Emma Johnson P 9876543210
+Oliver John P 8765432109
+Sophia Brown P 7654321098
+Liam Taylor P 6543210987
+Ethan Robinson P 4321098765
+Isabella Drew P 3210987654
+Jackson Garcia P 2109876543
+Grace Anderson P 7890123456
+
+

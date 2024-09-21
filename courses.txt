@@ -1,0 +1,11 @@
+CS50IntroductionToComputerScience 2 4 false Smith
+CS124DataStructuresAndAlgorithms 1 4 false White
+CS161OperatingSystems 2 4 true Miller
+CS207SystemsDevelopmentForComputationalScience 1 4 false Smith
+CS20DiscreteMathematicsForComputerScience 1 4 false Davis
+EC101Microeconomics 1 4 true White
+LS50EnvironmentalScience 2 3 false Miller
+MA153CalculusIII 1 4 true Davis
+PS205InternationalRelations 2 3 false Taylor
+PY110IntroductionToPsychology 1 4 true Martinez
+END OF INPUT
