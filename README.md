@@ -3,6 +3,7 @@ Implementation of a secretary department built in c++
 
 This projects simulates the secretary department of a university department. You can:
 1.Add a professor or a student
+
 2.Delete a professor or a student
 3.Add or delete a course
 4.Assign a professor to a course
