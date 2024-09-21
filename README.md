@@ -35,3 +35,4 @@ Most courses are from the CS department of Harvard School of Engineering and (mo
 
 Warning: When a specific person is asked (for example function no4), we need to provide a valid name that already exists in the data, otherwise a segmentation fault occurs.
 
+This project was completed for the course Object Oriented Programming, by professor Anastasia Lygizou, Department of Informatics and Telecommunications(DIT), University of Athens (UOA). More information can be found here: https://www.di.uoa.gr/en/studies/undergraduate/38
